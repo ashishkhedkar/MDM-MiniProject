@@ -1,0 +1,20 @@
+# Compiled binaries
+build/
+*.o
+*.out
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE
+.vscode/

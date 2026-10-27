@@ -1,0 +1,16 @@
+metric,value
+dataset,brfss2015_sample.csv
+synthetic,no
+valid_records,5000
+missing_rows_excluded,0
+invalid_rows_rejected,0
+chi_square_statistic,433.316
+degrees_of_freedom,16
+p_value,3.705677532e-82
+alpha,0.05
+decision,reject H0
+cramers_v,0.147193
+association_strength,small
+cells_expected_below_5,0
+min_expected_frequency,11.3316
+assumptions_met,yes

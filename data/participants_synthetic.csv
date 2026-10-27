@@ -1,0 +1,301 @@
+ParticipantID,ExerciseFrequency,SelfReportedFitness,Source
+P0001,3–4 days per week,Very Good,Synthetic
+P0002,3–4 days per week,Excellent,Synthetic
+P0003,5+ days per week,Good,Synthetic
+P0004,Rarely,Good,Synthetic
+P0005,1–2 days per week,Fair,Synthetic
+P0006,Never,Good,Synthetic
+P0007,1–2 days per week,Poor,Synthetic
+P0008,1–2 days per week,Very Good,Synthetic
+P0009,3–4 days per week,Good,Synthetic
+P0010,5+ days per week,Very Good,Synthetic
+P0011,3–4 days per week,Very Good,Synthetic
+P0012,1–2 days per week,Poor,Synthetic
+P0013,1–2 days per week,Good,Synthetic
+P0014,1–2 days per week,Excellent,Synthetic
+P0015,1–2 days per week,Good,Synthetic
+P0016,5+ days per week,Excellent,Synthetic
+P0017,3–4 days per week,Very Good,Synthetic
+P0018,Rarely,Fair,Synthetic
+P0019,5+ days per week,Very Good,Synthetic
+P0020,3–4 days per week,Excellent,Synthetic
+P0021,3–4 days per week,Excellent,Synthetic
+P0022,Rarely,Very Good,Synthetic
+P0023,1–2 days per week,Fair,Synthetic
+P0024,Rarely,Good,Synthetic
+P0025,1–2 days per week,Fair,Synthetic
+P0026,Never,Fair,Synthetic
+P0027,5+ days per week,Very Good,Synthetic
+P0028,Rarely,Good,Synthetic
+P0029,Never,Fair,Synthetic
+P0030,1–2 days per week,Fair,Synthetic
+P0031,5+ days per week,Excellent,Synthetic
+P0032,3–4 days per week,Good,Synthetic
+P0033,3–4 days per week,Excellent,Synthetic
+P0034,1–2 days per week,Fair,Synthetic
+P0035,5+ days per week,Very Good,Synthetic
+P0036,5+ days per week,Good,Synthetic
+P0037,3–4 days per week,Good,Synthetic
+P0038,3–4 days per week,Very Good,Synthetic
+P0039,3–4 days per week,Excellent,Synthetic
+P0040,5+ days per week,Very Good,Synthetic
+P0041,1–2 days per week,Poor,Synthetic
+P0042,1–2 days per week,Excellent,Synthetic
+P0043,Rarely,Good,Synthetic
+P0044,5+ days per week,Very Good,Synthetic
+P0045,3–4 days per week,Poor,Synthetic
+P0046,5+ days per week,Very Good,Synthetic
+P0047,1–2 days per week,Good,Synthetic
+P0048,Rarely,Very Good,Synthetic
+P0049,Never,Fair,Synthetic
+P0050,Never,Poor,Synthetic
+P0051,3–4 days per week,Good,Synthetic
+P0052,1–2 days per week,Fair,Synthetic
+P0053,3–4 days per week,Excellent,Synthetic
+P0054,5+ days per week,Very Good,Synthetic
+P0055,3–4 days per week,Very Good,Synthetic
+P0056,1–2 days per week,Poor,Synthetic
+P0057,3–4 days per week,Excellent,Synthetic
+P0058,1–2 days per week,Very Good,Synthetic
+P0059,5+ days per week,Excellent,Synthetic
+P0060,3–4 days per week,Very Good,Synthetic
+P0061,Never,Poor,Synthetic
+P0062,Rarely,Good,Synthetic
+P0063,Rarely,Good,Synthetic
+P0064,1–2 days per week,Very Good,Synthetic
+P0065,Rarely,Fair,Synthetic
+P0066,Rarely,Fair,Synthetic
+P0067,3–4 days per week,Very Good,Synthetic
+P0068,5+ days per week,Good,Synthetic
+P0069,3–4 days per week,Very Good,Synthetic
+P0070,5+ days per week,Excellent,Synthetic
+P0071,1–2 days per week,Good,Synthetic
+P0072,Rarely,Excellent,Synthetic
+P0073,Rarely,Fair,Synthetic
+P0074,3–4 days per week,Good,Synthetic
+P0075,Rarely,Very Good,Synthetic
+P0076,Never,Fair,Synthetic
+P0077,5+ days per week,Excellent,Synthetic
+P0078,Never,Good,Synthetic
+P0079,3–4 days per week,Very Good,Synthetic
+P0080,5+ days per week,Excellent,Synthetic
+P0081,1–2 days per week,Very Good,Synthetic
+P0082,Rarely,Excellent,Synthetic
+P0083,3–4 days per week,Very Good,Synthetic
+P0084,3–4 days per week,Very Good,Synthetic
+P0085,3–4 days per week,Very Good,Synthetic
+P0086,1–2 days per week,Very Good,Synthetic
+P0087,1–2 days per week,Excellent,Synthetic
+P0088,3–4 days per week,Good,Synthetic
+P0089,5+ days per week,Good,Synthetic
+P0090,5+ days per week,Excellent,Synthetic
+P0091,1–2 days per week,Good,Synthetic
+P0092,Never,Very Good,Synthetic
+P0093,5+ days per week,Excellent,Synthetic
+P0094,3–4 days per week,Good,Synthetic
+P0095,3–4 days per week,Excellent,Synthetic
+P0096,1–2 days per week,Very Good,Synthetic
+P0097,Never,Very Good,Synthetic
+P0098,3–4 days per week,Very Good,Synthetic
+P0099,Never,Very Good,Synthetic
+P0100,Rarely,Fair,Synthetic
+P0101,1–2 days per week,Excellent,Synthetic
+P0102,3–4 days per week,Very Good,Synthetic
+P0103,3–4 days per week,Very Good,Synthetic
+P0104,Rarely,Very Good,Synthetic
+P0105,3–4 days per week,Good,Synthetic
+P0106,3–4 days per week,Good,Synthetic
+P0107,1–2 days per week,Good,Synthetic
+P0108,5+ days per week,Very Good,Synthetic
+P0109,5+ days per week,Good,Synthetic
+P0110,Rarely,Very Good,Synthetic
+P0111,1–2 days per week,Very Good,Synthetic
+P0112,3–4 days per week,Excellent,Synthetic
+P0113,Rarely,Fair,Synthetic
+P0114,3–4 days per week,Fair,Synthetic
+P0115,3–4 days per week,Good,Synthetic
+P0116,1–2 days per week,Fair,Synthetic
+P0117,3–4 days per week,Very Good,Synthetic
+P0118,Rarely,Very Good,Synthetic
+P0119,Rarely,Good,Synthetic
+P0120,Never,Good,Synthetic
+P0121,Rarely,Good,Synthetic
+P0122,Never,Good,Synthetic
+P0123,3–4 days per week,Very Good,Synthetic
+P0124,Never,Poor,Synthetic
+P0125,3–4 days per week,Excellent,Synthetic
+P0126,1–2 days per week,Good,Synthetic
+P0127,3–4 days per week,Excellent,Synthetic
+P0128,Never,Poor,Synthetic
+P0129,1–2 days per week,Fair,Synthetic
+P0130,3–4 days per week,Very Good,Synthetic
+P0131,3–4 days per week,Fair,Synthetic
+P0132,Never,Very Good,Synthetic
+P0133,3–4 days per week,Good,Synthetic
+P0134,5+ days per week,Very Good,Synthetic
+P0135,1–2 days per week,Very Good,Synthetic
+P0136,1–2 days per week,Good,Synthetic
+P0137,Never,Poor,Synthetic
+P0138,Rarely,Good,Synthetic
+P0139,5+ days per week,Very Good,Synthetic
+P0140,1–2 days per week,Good,Synthetic
+P0141,5+ days per week,Excellent,Synthetic
+P0142,5+ days per week,Excellent,Synthetic
+P0143,Never,Fair,Synthetic
+P0144,Rarely,Fair,Synthetic
+P0145,3–4 days per week,Fair,Synthetic
+P0146,Rarely,Fair,Synthetic
+P0147,5+ days per week,Very Good,Synthetic
+P0148,3–4 days per week,Very Good,Synthetic
+P0149,Rarely,Good,Synthetic
+P0150,5+ days per week,Excellent,Synthetic
+P0151,1–2 days per week,Good,Synthetic
+P0152,3–4 days per week,Excellent,Synthetic
+P0153,Rarely,Good,Synthetic
+P0154,1–2 days per week,Good,Synthetic
+P0155,3–4 days per week,Fair,Synthetic
+P0156,Rarely,Fair,Synthetic
+P0157,3–4 days per week,Good,Synthetic
+P0158,1–2 days per week,Good,Synthetic
+P0159,Never,Poor,Synthetic
+P0160,3–4 days per week,Fair,Synthetic
+P0161,5+ days per week,Good,Synthetic
+P0162,Rarely,Good,Synthetic
+P0163,Rarely,Good,Synthetic
+P0164,Never,Fair,Synthetic
+P0165,1–2 days per week,Fair,Synthetic
+P0166,Never,Poor,Synthetic
+P0167,1–2 days per week,Very Good,Synthetic
+P0168,Never,Fair,Synthetic
+P0169,1–2 days per week,Very Good,Synthetic
+P0170,Never,Good,Synthetic
+P0171,Never,Fair,Synthetic
+P0172,1–2 days per week,Very Good,Synthetic
+P0173,3–4 days per week,Fair,Synthetic
+P0174,1–2 days per week,Good,Synthetic
+P0175,5+ days per week,Good,Synthetic
+P0176,Rarely,Fair,Synthetic
+P0177,3–4 days per week,Poor,Synthetic
+P0178,1–2 days per week,Fair,Synthetic
+P0179,5+ days per week,Excellent,Synthetic
+P0180,Rarely,Excellent,Synthetic
+P0181,Never,Poor,Synthetic
+P0182,1–2 days per week,Fair,Synthetic
+P0183,Never,Fair,Synthetic
+P0184,Rarely,Fair,Synthetic
+P0185,1–2 days per week,Good,Synthetic
+P0186,3–4 days per week,Very Good,Synthetic
+P0187,Rarely,Fair,Synthetic
+P0188,1–2 days per week,Fair,Synthetic
+P0189,1–2 days per week,Poor,Synthetic
+P0190,1–2 days per week,Excellent,Synthetic
+P0191,3–4 days per week,Fair,Synthetic
+P0192,Rarely,Fair,Synthetic
+P0193,Rarely,Good,Synthetic
+P0194,5+ days per week,Very Good,Synthetic
+P0195,3–4 days per week,Excellent,Synthetic
+P0196,3–4 days per week,Good,Synthetic
+P0197,3–4 days per week,Fair,Synthetic
+P0198,Never,Poor,Synthetic
+P0199,3–4 days per week,Poor,Synthetic
+P0200,Rarely,Excellent,Synthetic
+P0201,1–2 days per week,Good,Synthetic
+P0202,3–4 days per week,Very Good,Synthetic
+P0203,3–4 days per week,Very Good,Synthetic
+P0204,3–4 days per week,Very Good,Synthetic
+P0205,1–2 days per week,Good,Synthetic
+P0206,1–2 days per week,Good,Synthetic
+P0207,1–2 days per week,Fair,Synthetic
+P0208,1–2 days per week,Good,Synthetic
+P0209,1–2 days per week,Good,Synthetic
+P0210,3–4 days per week,Very Good,Synthetic
+P0211,5+ days per week,Very Good,Synthetic
+P0212,Rarely,Very Good,Synthetic
+P0213,Rarely,Very Good,Synthetic
+P0214,1–2 days per week,Fair,Synthetic
+P0215,1–2 days per week,Very Good,Synthetic
+P0216,1–2 days per week,Good,Synthetic
+P0217,5+ days per week,Good,Synthetic
+P0218,5+ days per week,Very Good,Synthetic
+P0219,Rarely,Poor,Synthetic
+P0220,5+ days per week,Very Good,Synthetic
+P0221,5+ days per week,Excellent,Synthetic
+P0222,3–4 days per week,Fair,Synthetic
+P0223,3–4 days per week,Excellent,Synthetic
+P0224,5+ days per week,Very Good,Synthetic
+P0225,5+ days per week,Very Good,Synthetic
+P0226,3–4 days per week,Excellent,Synthetic
+P0227,Never,Very Good,Synthetic
+P0228,3–4 days per week,Very Good,Synthetic
+P0229,1–2 days per week,Good,Synthetic
+P0230,1–2 days per week,Excellent,Synthetic
+P0231,1–2 days per week,Good,Synthetic
+P0232,1–2 days per week,Good,Synthetic
+P0233,Never,Good,Synthetic
+P0234,Rarely,Poor,Synthetic
+P0235,1–2 days per week,Fair,Synthetic
+P0236,5+ days per week,Good,Synthetic
+P0237,Rarely,Fair,Synthetic
+P0238,Never,Good,Synthetic
+P0239,3–4 days per week,Fair,Synthetic
+P0240,Rarely,Good,Synthetic
+P0241,Rarely,Poor,Synthetic
+P0242,3–4 days per week,Very Good,Synthetic
+P0243,Rarely,Good,Synthetic
+P0244,Rarely,Fair,Synthetic
+P0245,Rarely,Fair,Synthetic
+P0246,3–4 days per week,Good,Synthetic
+P0247,3–4 days per week,Very Good,Synthetic
+P0248,1–2 days per week,Very Good,Synthetic
+P0249,Rarely,Poor,Synthetic
+P0250,5+ days per week,Very Good,Synthetic
+P0251,3–4 days per week,Fair,Synthetic
+P0252,5+ days per week,Excellent,Synthetic
+P0253,1–2 days per week,Very Good,Synthetic
+P0254,3–4 days per week,Very Good,Synthetic
+P0255,Never,Poor,Synthetic
+P0256,Rarely,Poor,Synthetic
+P0257,5+ days per week,Excellent,Synthetic
+P0258,Rarely,Fair,Synthetic
+P0259,Rarely,Fair,Synthetic
+P0260,Rarely,Excellent,Synthetic
+P0261,1–2 days per week,Good,Synthetic
+P0262,1–2 days per week,Good,Synthetic
+P0263,5+ days per week,Excellent,Synthetic
+P0264,1–2 days per week,Very Good,Synthetic
+P0265,5+ days per week,Good,Synthetic
+P0266,Rarely,Very Good,Synthetic
+P0267,1–2 days per week,Good,Synthetic
+P0268,Never,Good,Synthetic
+P0269,Rarely,Fair,Synthetic
+P0270,5+ days per week,Good,Synthetic
+P0271,1–2 days per week,Good,Synthetic
+P0272,5+ days per week,Very Good,Synthetic
+P0273,5+ days per week,Excellent,Synthetic
+P0274,Rarely,Very Good,Synthetic
+P0275,1–2 days per week,Good,Synthetic
+P0276,5+ days per week,Very Good,Synthetic
+P0277,5+ days per week,Very Good,Synthetic
+P0278,1–2 days per week,Excellent,Synthetic
+P0279,1–2 days per week,Fair,Synthetic
+P0280,3–4 days per week,Very Good,Synthetic
+P0281,Rarely,Excellent,Synthetic
+P0282,Rarely,Very Good,Synthetic
+P0283,Never,Very Good,Synthetic
+P0284,5+ days per week,Fair,Synthetic
+P0285,Never,Fair,Synthetic
+P0286,1–2 days per week,Very Good,Synthetic
+P0287,3–4 days per week,Very Good,Synthetic
+P0288,Never,Good,Synthetic
+P0289,5+ days per week,Very Good,Synthetic
+P0290,3–4 days per week,Very Good,Synthetic
+P0291,1–2 days per week,Very Good,Synthetic
+P0292,Rarely,Excellent,Synthetic
+P0293,3–4 days per week,Very Good,Synthetic
+P0294,3–4 days per week,Very Good,Synthetic
+P0295,1–2 days per week,Fair,Synthetic
+P0296,Rarely,Fair,Synthetic
+P0297,Never,Fair,Synthetic
+P0298,3–4 days per week,Fair,Synthetic
+P0299,1–2 days per week,Good,Synthetic
+P0300,3–4 days per week,Excellent,Synthetic

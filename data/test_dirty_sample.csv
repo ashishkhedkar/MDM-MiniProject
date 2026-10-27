@@ -1,0 +1,14 @@
+# Small hand-made file for testing validation (synthetic, 12 data rows)
+ParticipantID,ExerciseFrequency,SelfReportedFitness,Source
+T01,never,poor,Synthetic
+T02,Rarely,fair,Synthetic
+T03,1-2 days/week,Good,Synthetic
+T04,3–4 days per week,very good,Synthetic
+T05,5+ days per week,Excellent,Synthetic
+T06,3-4 days per week,,Synthetic
+T07,N/A,Good,Synthetic
+T08,sometimes,Good,Synthetic
+T09,Rarely,amazing,Synthetic
+T10,5+,Excellent,Synthetic
+T11,1–2 days per week
+T12,Never,Fair,Synthetic
